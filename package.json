@@ -1,0 +1,23 @@
+{
+  "name": "recipe-api",
+  "version": "1.0.0",
+  "description": "🍜 Recipes Api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maroctt/recipe-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maroctt/recipe-api/issues"
+  },
+  "homepage": "https://github.com/maroctt/recipe-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
