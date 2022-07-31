@@ -1,0 +1,233 @@
+{
+    "recipes": [
+        {
+            "id": 0,
+            "title": "Matcha Tea",
+            "description": "Matcha is traditionally prepared with a bamboo whisk in a bowl. As part of the Japanese tea ceremony, there is an elaborate process that utilizes various utensils to make a bowl of Matcha. ",
+            "time": {
+                "prep": "10m",
+                "cook": "",
+                "total": "10m"
+            },
+            "ingredients": {
+                "main": [
+                    {
+                        "i1": {
+                            "product": "Matcha powder",
+                            "quantity": 1,
+                            "unit": "gr",
+                            "observations": ""
+                        }
+                    },
+                    {
+                        "i2": {
+                            "product": "Water",
+                            "quantity": 170,
+                            "unit": "ml",
+                            "observations": "The temperature needs to be around 70°C"
+                        }
+                    }
+                ]
+            },
+            "method": [
+                "Place a sifter over the chawan (tea bowl), then use the chashaku (bamboo scoop) to add the matcha to it.",
+                "Use the bamboo scoop to sift the matcha down into the bowl. This helps prevent clumps and ensures the smoothest bowl possible.",
+                "Pour about 60ml of the hot water into the bowl.",
+                "Using the bamboo whisk, vigorously mix the matcha in back and forth “M”-shaped motions until froth forms (about 10-20 seconds).",
+                "Optional: slowly add more of the remaining water to your taste preference."
+            ],
+            "cuisine": [
+                "Asian",
+                "Japanese"
+            ],
+            "type": [
+                "Beverage",
+                "Breakfast"
+            ],
+            "diet": [],
+            "img-url": "https://images.unsplash.com/photo-1575487426366-079595af2247?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+        },
+        {
+            "id": 1,
+            "title": "Grilled Veggie Pizza",
+            "description": "Make perfect pizza at home with this classic homemade pizza recipe, including a pizza dough recipe, topping suggestions, and step-by-step instructions. ",
+            "time": {
+                "prep": "2h",
+                "cook": "30m",
+                "total": "2h 30m"
+            },
+            "ingredients": {
+                "Dough": [
+                    {
+                        "i1": {
+                            "product": "Water",
+                            "quantity": 355,
+                            "unit": "ml",
+                            "observations": "Warm (40°C - 46°C)"
+                        }
+                    },
+                    {
+                        "i2": {
+                            "product": "Active dry yeast",
+                            "quantity": "7",
+                            "unit": "gr",
+                            "observations": "1 package"
+                        }
+                    },
+                    {
+                        "i3": {
+                            "product": "Flour 000",
+                            "quantity": 490,
+                            "unit": "gr",
+                            "observations": ""
+                        }
+                    },
+                    {
+                        "i4": {
+                            "product": "Extra virgin olive oil",
+                            "quantity": 30,
+                            "unit": "ml",
+                            "observations": "Omit if cooking pizza in a wood-fired pizza oven"
+                        }
+                    },
+                    {
+                        "i5": {
+                            "product": "Kosher salt",
+                            "quantity": 8,
+                            "unit": "gr",
+                            "observations": ""
+                        }
+                    },
+                    {
+                        "i6": {
+                            "product": "Sugar",
+                            "quantity": 4,
+                            "unit": "gr",
+                            "observations": ""
+                        }
+                    }
+                ],
+                "Toppings": [
+                    {
+                        "i7": {
+                            "product": "Onions",
+                            "quantity": 2,
+                            "unit": "",
+                            "observations": ""
+                        }
+                    },
+                    {
+                        "i8": {
+                            "product": "Bell pepper",
+                            "quantity": 2,
+                            "unit": "",
+                            "observations": "One red and one yellow"
+                        }
+                    }
+                ]
+            },
+            "method": [
+                "Proof the yeast: Place the warm water in the large bowl of a heavy duty stand mixer. Sprinkle the yeast over the warm water and let it sit for 5 minutes until the yeast is dissolved. After 5 minutes stir if the yeast hasn't dissolved completely. The yeast should begin to foam or bloom, indicating that the yeast is still active and alive. ",
+                " Make and knead the pizza dough: Add the flour, salt, sugar, and olive oil, and using the mixing paddle attachment, mix on low speed for a minute. Then replace the mixing paddle with the dough hook attachment. Knead the pizza dough on low to medium speed using the dough hook about 7-10 minutes. If you don't have a mixer, you can mix the ingredients together and knead them by hand. The dough should be a little sticky, or tacky to the touch. If it's too wet, sprinkle in a little more flour. ",
+                " Let the dough rise: Spread a thin layer of olive oil over the inside of a large bowl. Place the pizza dough in the bowl and turn it around so that it gets coated with the oil. place the dough in a warm place  for 1 1/2 hours. ",
+                "Preheat the pizza stone (or pizza pan or baking sheet).",
+                "Divide the dough into two balls and let them sit for 15 min.",
+                "Prepare the veggies for the toppings.",
+                "Flatten the dough ball, and stretch out into a round.",
+                "Spread with tomato sauce and sprinkle with toppings.",
+                "Bake pizza in the 475°F oven, one at a time, until the crust is browned and the cheese is golden, about 10 to 15 minutes."
+            ],
+            "cuisine": [
+                "Italian"
+            ],
+            "type": [
+                "Main",
+                "Dinner"
+            ],
+            "diet": [
+                "Vegetarian"
+            ],
+            "img-url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Zm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60"
+        },
+        {
+            "id": 2,
+            "title": "Lemon Raspberry Cake",
+            "description": "This raspberry cake is exploding with fresh lemon flavor and covered in tangy lemon cream cheese frosting. It’s the perfect lemon raspberry dessert for Mother’s Day or Easter brunch! If you like lemons and raspberries you're going to LOVE this Lemon Raspberry Cake!",
+            "time": {
+                "prep": "20m",
+                "cook": "40m",
+                "total": "1h"
+            },
+            "ingredients": {},
+            "method": [],
+            "cuisine": [
+                "Cake"
+            ],
+            "type": [
+                "Dessert"
+            ],
+            "diet": [],
+            "img-url": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Zm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
+        },
+        {
+            "id": 3,
+            "title": "Horiatiki: Traditional Greek  Salad",
+            "description": "Simple traditional Greek Salad with ripe tomatoes, cucumbers, bell peppers, onions, olives and creamy feta cheese.",
+            "time": {
+                "prep": "15m",
+                "cook": "",
+                "total": "15m"
+            },
+            "ingredients": {},
+            "method": [],
+            "cuisine": [
+                "Mediterranean",
+                "Greek"
+            ],
+            "type": [
+                "Salad"
+            ],
+            "diet": [
+                "Vegetarian"
+            ],
+            "img-url": "https://images.unsplash.com/photo-1657014193316-85125b7d57ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80"
+        },
+        {
+            "id": 4,
+            "title": "BLT Stuffed Avocado",
+            "description": "This BLT stuffed avocado has all the best parts of the sandwich, with a boost of healthy fats and fiber — minus the bread!",
+            "time": {
+                "prep": "15m",
+                "cook": "20m",
+                "total": "35m"
+            },
+            "ingredients": {},
+            "method": [],
+            "cuisine": [],
+            "type": [],
+            "diet": [
+                "Keto",
+                "Vegetarian"
+            ],
+            "img-url": "https://images.unsplash.com/photo-1546554137-f86b9593a222?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Njh8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
+        },
+        {
+            "id": 5,
+            "title": "Autumn Pumpikin Soup",
+            "description": "Pumpkin soup in the fall is something that never gets old. It's healthy, super creamy, and keeps you cozy.",
+            "time": {
+                "prep": "10m",
+                "cook": "50m",
+                "total": "1h"
+            },
+            "ingredients": {},
+            "method": [],
+            "cuisine": [],
+            "type": [
+                "Soup"
+            ],
+            "diet": "",
+            "img-url": "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+        }
+    ]
+}
