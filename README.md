@@ -1,3 +1,3 @@
 # recipe-api
 
-🍜 Recipes Api
+🍜 Recipes Fake Api
