@@ -45,7 +45,7 @@
                 "Breakfast"
             ],
             "diet": [],
-            "img-url": "https://images.unsplash.com/photo-1575487426366-079595af2247?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+            "url": "https://images.unsplash.com/photo-1575487426366-079595af2247?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
         },
         {
             "id": 1,
@@ -147,7 +147,7 @@
             "diet": [
                 "Vegetarian"
             ],
-            "img-url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Zm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60"
+            "url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Zm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60"
         },
         {
             "id": 2,
@@ -167,7 +167,7 @@
                 "Dessert"
             ],
             "diet": [],
-            "img-url": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Zm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
+            "url": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Zm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
         },
         {
             "id": 3,
@@ -190,7 +190,7 @@
             "diet": [
                 "Vegetarian"
             ],
-            "img-url": "https://images.unsplash.com/photo-1657014193316-85125b7d57ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80"
+            "url": "https://images.unsplash.com/photo-1657014193316-85125b7d57ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80"
         },
         {
             "id": 4,
@@ -209,7 +209,7 @@
                 "Keto",
                 "Vegetarian"
             ],
-            "img-url": "https://images.unsplash.com/photo-1546554137-f86b9593a222?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Njh8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
+            "url": "https://images.unsplash.com/photo-1546554137-f86b9593a222?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Njh8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
         },
         {
             "id": 5,
@@ -227,7 +227,7 @@
                 "Soup"
             ],
             "diet": "",
-            "img-url": "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+            "url": "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
         }
     ]
 }
